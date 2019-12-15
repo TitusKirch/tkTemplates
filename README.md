@@ -25,7 +25,7 @@ For more information and our guidelines, please refer to the [CONTRIBUTING.md](C
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For available versions, see the [tags on this repository](https://github.com/TitusKirch/tkTabernam/tags). 
+We use [SemVer](http://semver.org/) for versioning. For available versions, see the [tags on this repository](https://github.com/TitusKirch/tkTemplates/tags). 
 
 ## Authors
 
