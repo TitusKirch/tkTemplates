@@ -1,5 +1,5 @@
 # tkTemplates
-<p align="center>
+<p align="center">
     <a href="https://github.com/TitusKirch/tkTemplates/blob/master/LICENSE"><img src="https://img.shields.io/github/license/TitusKirch/tkTemplates?label=License&labelColor=30363D&color=2FBF50" alt="License"></a>
     <a href="https://github.com/TitusKirch/tkTemplates/releases"><img src="https://img.shields.io/github/downloads/TitusKirch/tkTemplates/total?label=Downloads&labelColor=30363D&color=2FBF50" alt="Downloads"></a>
     <a href="https://github.com/TitusKirch/tkTemplates/graphs/contributors"><img src="https://img.shields.io/github/contributors/TitusKirch/tkTemplates?label=Contributors&labelColor=30363D&color=2FBF50" alt="Contributors"></a>
